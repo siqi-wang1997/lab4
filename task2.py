@@ -1,3 +1,5 @@
+
+
 from string import punctuation, whitespace
 
 book = 'origin.txt'
